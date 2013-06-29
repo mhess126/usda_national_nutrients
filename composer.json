@@ -1,0 +1,14 @@
+{
+    "name": "thebishop/usda_national_nutrients",
+    "type": "library",
+    "description": "MySQL Export of USDA National Nutrients Data",
+    "keywords": ["USDA", "nutrient", "MySQL"],
+    "homepage": "https://github.com/thebishop/usda_national_nutrients",
+    "license": "MIT",
+    "authors": [
+        {
+            "email": "mhess126@yahoo.com"
+        }
+    ]
+
+}
